@@ -1,6 +1,8 @@
 Learn Javascript
 ======
 
+[![Join the chat at https://gitter.im/codex-academy/javascript](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codex-academy/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This book will teach you the basics of programming and Javascript. Whether you are an experienced programmer or not, this book is intended for everyone who wishes to learn the JavaScript programming language.
 
 [![Screen](./assets/intro.png)](./assets/intro.png)
